@@ -20,7 +20,7 @@ This project is a Telegram bot designed for news aggregation and thematic newsle
 
 1. **Clone the Repository:**
 ```bash
-git clone 
+git clone https://github.com/TemaBlag/Telegram_NewsBot
 cd tg_bot
 
 ```
